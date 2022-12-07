@@ -1,0 +1,16 @@
+main(){
+
+  num x = 7
+
+  num y = 8
+
+  num z=x+y
+
+  si(z>10){
+    z=1
+  }sino{
+    z=2
+  }
+
+  print(z)
+}
